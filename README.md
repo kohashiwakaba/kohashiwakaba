@@ -1,4 +1,6 @@
 ### 냠
+![20230207123204_1](https://github.com/kohashiwakaba/kohashiwakaba/assets/37092106/2d013be4-8765-4058-899a-c2cb479b7512)
+
 
 <!--
 **kohashiwakaba/kohashiwakaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
